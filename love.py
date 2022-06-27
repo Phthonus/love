@@ -6,7 +6,8 @@ for row in range(6):
             print(end = ' ')
         print()
 '''
-Khi chạy chương trình và đây là kết quả :))))))))
+Khi chạy chương trình và đây là kết quả :)))))))) 
+2020, 2021, 2022
  **  **
 *   *   *
 *       *
